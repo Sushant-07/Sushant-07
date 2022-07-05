@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sushant-07
-- 👀 I’m interested in Android App Development and new developments in the tech world.
-- 🌱 I’m currently learning Kotlin and Flutter for Android App Development.
-- 💞️ I’m looking to collaborate on making new apps.
+- 👀 I’m interested in Software Development using Python and Android App Development.
+- 🌱 I’m currently working as an Intern at Pickrr Technologies as a Software Developer Intern.
+- 💞️ I’m looking to collaborate for solving new problems and creating new apps.
 - 📫 How to reach me - sushantarora08@gmail.com
 
 <!---
